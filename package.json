@@ -2,6 +2,7 @@
   "name": "webpack-demo-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aimerick.github.io/webpack-demo/build",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
