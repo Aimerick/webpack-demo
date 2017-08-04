@@ -2,4 +2,25 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  text-align: center;
+}
+
+h1{
+  display: inline-block;
+  margin-top: 100px;
+  font-size: 64px;
+  cursor: pointer;
+  width: 400px;
+  height: 400px;
+  line-height: 400px;
+  background: lightsalmon;
+  border-radius: 50%;
+  border: 2px dotted orangered;
+  color: #fff;
+}
+
+h1:hover{
+  background: antiquewhite;
+  color: lightsalmon;
+  border: 2px solid lightsalmon;
 }
